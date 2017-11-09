@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "KeriganSolutions\\Agents\\" : "src"
+            "KeriganSolutions\\Agents\\" : "src/"
         }
     }
 }
